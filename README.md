@@ -52,3 +52,8 @@ A custom function `evaluate_model(y_true, y_pred)` was used to compute:
 ![](Results/output2.png)
 
 
+## 🎓 Conclusion
+
+This project was developed as part of my internship completion at **Internship Studio**. It reflects my understanding of the complete machine learning workflow, from data preprocessing and exploratory data analysis to model training, evaluation, and result visualization.
+
+Through this project, I have gained valuable hands-on experience in implementing supervised learning techniques and interpreting model performance using key metrics. I am confident that the skills applied here will serve as a strong foundation for future data science and machine learning challenges.
