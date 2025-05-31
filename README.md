@@ -41,3 +41,14 @@ A custom function `evaluate_model(y_true, y_pred)` was used to compute:
 ### OUTPUTS:
 
 ![](Results/1.png)
+![](Results/2.png)
+![](Results/3A.png)
+![](Results/3.png)
+![](Results/4.png)
+
+### PLOTTED GRAPHS:
+
+![](Results/output.png)
+![](Results/output2.png)
+
+
