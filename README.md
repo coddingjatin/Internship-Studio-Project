@@ -38,4 +38,6 @@ A custom function `evaluate_model(y_true, y_pred)` was used to compute:
 - **Root Mean Squared Error (RMSE)**
 - **R² Score**
 
+### OUTPUTS:
 
+![](Results/1.png)
